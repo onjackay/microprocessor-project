@@ -1,0 +1,1 @@
+The course project of ECE373 Design of Microprocessor Based Systems, at UM-SJTU joint institute.
